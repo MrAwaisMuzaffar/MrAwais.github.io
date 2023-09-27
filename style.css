@@ -1,0 +1,23 @@
+
+
+body{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    background-image: url('images/background.jpg');
+    text-align: center;
+}
+h3{
+    color:rgb(138, 125, 125);
+    text-align: center;
+}
+p{
+    margin:10px 100px 100px 100px;
+}
+#my-img{
+    height: 300px;
+    width:auto;
+    margin-top:30px;
+}
+
+
+
